@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SockRattys
+- 👋 Hi, I’m @McKennaShrooms aka SockRattys
 - 👀 I’m interested in building the future.
 - 🌱 I am currently learning about computational neuroscience and it is kicking my a**.
 - 💞️ I’m looking to collaborate on anything as long as I can contribute effectively
