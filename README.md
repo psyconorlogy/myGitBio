@@ -2,4 +2,4 @@
 - 👀 I’m interested in building a future that empowers people to make the best decisions possible, by creating the best tools possible.
 - 🌱 I am currently learning about computational neuroscience and physics. Simulating reality in a machine.
 - 💞️ I’m looking to collaborate on ideas of all sorts. As long as I have the time (I do). 
-- 📫 How to reach me : cogsci.mail@gmail.com
+- 📫 How to reach me : cogscilabs.mail@gmail.com
