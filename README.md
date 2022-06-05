@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @McKennaShrooms aka SockRattys
-- 👀 I’m interested in building the future.
-- 🌱 I am currently learning about computational neuroscience and it is kicking my a**.
-- 💞️ I’m looking to collaborate on anything as long as I can contribute effectively
-- 📫 How to reach me : 911
+- 👋 Hi, I’m @wordsurgeon, I like programming (Java, C++, Python) and I hope to make some cool stuff with y'all.
+- 👀 I’m interested in building a future that empowers people to make the best decisions possible, by creating the best tools possible.
+- 🌱 I am currently learning about computational neuroscience and physics. Simulating reality in a machine.
+- 💞️ I’m looking to collaborate on ideas of all sorts. As long as I have the time (I do). 
+- 📫 How to reach me : cogsci.mail@gmail.com
